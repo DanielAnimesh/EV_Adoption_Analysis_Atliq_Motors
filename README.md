@@ -12,6 +12,6 @@ The analysis is based on the following data tables:
 
 ## Dashboard  
 The [Power BI Dashboard](https://shorturl.at/TcdIh) consists of three key reports:  
-1. **Makers Analysis**: Insights into EV sales performance by makers.  
-2. **State Analysis - 1**: State-level EV adoption and penetration trends.  
-3. **State Analysis - 2**: Deeper dive into market dynamics across regions.  
+1. **Home Page**: Provides an overall analysis and summary of EV adoption trends and market performance.  
+2. **Sales by Maker**: Detailed insights into EV sales performance across different manufacturers.  
+3. **Sales by State**: State-wise analysis of EV sales, adoption rates, and market dynamics.   
